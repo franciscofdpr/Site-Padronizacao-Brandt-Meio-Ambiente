@@ -1,6 +1,6 @@
 # Brandt Meio Ambiente
 ## Padronização de Banco de Dados
-### [Subtítulo do documento]
+### [Manual de Padronização]
 
 **Francisco de Paula Ribeiro**  
 **Data do Documento: 11/12/2021**
