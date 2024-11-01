@@ -7,7 +7,7 @@
 
 ## Sumário
 
-1. Formatação Básic
+1. Formatação Básica
 2. Nome do Arquivo
 3. Planilha Única
 4. Identificador
