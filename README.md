@@ -1,22 +1,22 @@
 # README - Site Padronização Brandt Meio Ambiente
 
-**Francisco de Paula Ribeiro**  
+**Francisco de Paula Ribeiro**
 **Data do Documento: 11/12/2021**
 
 ---
 
 ## Sumário
 
-1. Formatação Básica  
-2. Nome do Arquivo  
-3. Planilha Única  
-4. Identificador  
-5. Variáveis por Colunas  
-6. Variáveis por Linhas  
-7. Codificação  
-8. Coordenadas  
-9. Data e Hora  
-10. Dados Acumulados  
+1. Formatação Básic
+2. Nome do Arquivo
+3. Planilha Única
+4. Identificador
+5. Variáveis por Colunas
+6. Variáveis por Linhas
+7. Codificação
+8. Coordenadas
+9. Data e Hora
+10. Dados Acumulados
 
 ---
 
@@ -31,6 +31,7 @@ Este documento foi elaborado para orientar a padronização dos bancos de dados 
 ### 1. Formatação Básica
 
 As planilhas devem adotar:
+
 - **Fonte**: Arial
 - **Tamanho**: 12 pt
 - **Altura da Linha**: 15
@@ -39,6 +40,7 @@ As planilhas devem adotar:
 ### 2. Nome do Arquivo
 
 Os arquivos de Excel devem seguir o padrão de nomenclatura:
+
 - Exemplo: `5RC CODIGO DO PROGRAMA/PROJETO NOME DA PLANILHA (AAAAMMDD)-1.xlsx`
 
 ### 3. Planilha Única
@@ -60,6 +62,7 @@ Cada registro deve ocupar uma linha, com a variável ID identificando o question
 ### 7. Codificação
 
 Codifique variáveis para evitar erros de digitação. Exemplo:
+
 - Solteiro: 1, Casado: 2, Sim: 1, Não: 0
 
 Guarde a codificação em uma aba separada com o mapeamento de códigos para variáveis e respostas.
